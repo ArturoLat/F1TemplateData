@@ -1,0 +1,72 @@
+year,constructor_id,nombre_escuderia,pais,color,url_foto
+2018,ferrari,Ferrari,Italian,#EF1A2D,backend/fotos_constructors/ferrari.jpg
+2018,force_india,Force India,Indian,#F27836,backend/fotos_constructors/force_india.jpg
+2018,racing_point,Racing Point,British,#F363B9,backend/fotos_constructors/racing_point.jpg
+2018,haas,Haas F1 Team,American,#9B9B9B,backend/fotos_constructors/haas.jpg
+2018,mclaren,McLaren,British,#FF8000,backend/fotos_constructors/mclaren.jpg
+2018,mercedes,Mercedes,German,#00A19B,backend/fotos_constructors/mercedes.jpg
+2018,red_bull,Red Bull Racing,Austrian,#223971,backend/fotos_constructors/red_bull.jpg
+2018,renault,Renault,French,#FFFF00,backend/fotos_constructors/renault.jpg
+2018,sauber,Sauber,Swiss,#DE3126,backend/fotos_constructors/sauber.jpg
+2018,toro_rosso,Toro Rosso,Italian,#00144A,backend/fotos_constructors/toro_rosso.jpg
+2018,williams,Williams,British,#00A0DE,backend/fotos_constructors/williams.jpg
+2019,alfa,Alfa Romeo Racing,Swiss,#A42134,backend/fotos_constructors/alfa_romeo.jpg
+2019,ferrari,Ferrari,Italian,#EF1A2D,backend/fotos_constructors/ferrari.jpg
+2019,haas,Haas F1 Team,American,#9B9B9B,backend/fotos_constructors/haas.jpg
+2019,mclaren,McLaren,British,#FF8000,backend/fotos_constructors/mclaren.jpg
+2019,mercedes,Mercedes,German,#00A19B,backend/fotos_constructors/mercedes.jpg
+2019,racing_point,Racing Point,British,#F363B9,backend/fotos_constructors/racing_point.jpg
+2019,red_bull,Red Bull Racing,Austrian,#223971,backend/fotos_constructors/red_bull.jpg
+2019,renault,Renault,French,#FFFF00,backend/fotos_constructors/renault.jpg
+2019,toro_rosso,Toro Rosso,Italian,#00144A,backend/fotos_constructors/toro_rosso.jpg
+2019,williams,Williams,British,#00A0DE,backend/fotos_constructors/williams.jpg
+2020,alfa,Alfa Romeo Racing,Swiss,#A42134,backend/fotos_constructors/alfa_romeo.jpg
+2020,alphatauri,AlphaTauri,Italian,#20394C,backend/fotos_constructors/alpha_tauri.jpg
+2020,ferrari,Ferrari,Italian,#EF1A2D,backend/fotos_constructors/ferrari.jpg
+2020,haas,Haas F1 Team,American,#9B9B9B,backend/fotos_constructors/haas.jpg
+2020,mclaren,McLaren,British,#FF8000,backend/fotos_constructors/mclaren.jpg
+2020,mercedes,Mercedes,German,#00A19B,backend/fotos_constructors/mercedes.jpg
+2020,racing_point,Racing Point,British,#F363B9,backend/fotos_constructors/racing_point.jpg
+2020,red_bull,Red Bull Racing,Austrian,#223971,backend/fotos_constructors/red_bull.jpg
+2020,renault,Renault,French,#FFFF00,backend/fotos_constructors/renault.jpg
+2020,williams,Williams,British,#00A0DE,backend/fotos_constructors/williams.jpg
+2021,alfa,Alfa Romeo Racing,Swiss,#A42134,backend/fotos_constructors/alfa_romeo.jpg
+2021,alphatauri,AlphaTauri,Italian,#20394C,backend/fotos_constructors/alpha_tauri.jpg
+2021,alpine,Alpine,French,#2173B8,backend/fotos_constructors/alpine.jpg
+2021,aston_martin,Aston Martin,British,#037A68,backend/fotos_constructors/aston_martin.jpg
+2021,ferrari,Ferrari,Italian,#EF1A2D,backend/fotos_constructors/ferrari.jpg
+2021,haas,Haas F1 Team,American,#9B9B9B,backend/fotos_constructors/haas.jpg
+2021,mclaren,McLaren,British,#FF8000,backend/fotos_constructors/mclaren.jpg
+2021,mercedes,Mercedes,German,#00A19B,backend/fotos_constructors/mercedes.jpg
+2021,red_bull,Red Bull Racing,Austrian,#223971,backend/fotos_constructors/red_bull.jpg
+2021,williams,Williams,British,#00A0DE,backend/fotos_constructors/williams.jpg
+2022,alfa,Alfa Romeo,Swiss,#A42134,backend/fotos_constructors/alfa_romeo.jpg
+2022,alphatauri,AlphaTauri,Italian,#20394C,backend/fotos_constructors/alpha_tauri.jpg
+2022,alpine,Alpine,French,#2173B8,backend/fotos_constructors/alpine.jpg
+2022,aston_martin,Aston Martin,British,#037A68,backend/fotos_constructors/aston_martin.jpg
+2022,ferrari,Ferrari,Italian,#EF1A2D,backend/fotos_constructors/ferrari.jpg
+2022,haas,Haas F1 Team,American,#9B9B9B,backend/fotos_constructors/haas.jpg
+2022,mclaren,McLaren,British,#FF8000,backend/fotos_constructors/mclaren.jpg
+2022,mercedes,Mercedes,German,#00A19B,backend/fotos_constructors/mercedes.jpg
+2022,red_bull,Red Bull Racing,Austrian,#223971,backend/fotos_constructors/red_bull.jpg
+2022,williams,Williams,British,#00A0DE,backend/fotos_constructors/williams.jpg
+2023,alfa,Alfa Romeo,Swiss,#A42134,backend/fotos_constructors/alfa_romeo.jpg
+2023,alphatauri,AlphaTauri,Italian,#20394C,backend/fotos_constructors/alpha_tauri.jpg
+2023,alpine,Alpine,French,#2173B8,backend/fotos_constructors/alpine.jpg
+2023,aston_martin,Aston Martin,British,#037A68,backend/fotos_constructors/aston_martin.jpg
+2023,ferrari,Ferrari,Italian,#EF1A2D,backend/fotos_constructors/ferrari.jpg
+2023,haas,Haas F1 Team,American,#9B9B9B,backend/fotos_constructors/haas.jpg
+2023,mclaren,McLaren,British,#FF8000,backend/fotos_constructors/mclaren.jpg
+2023,mercedes,Mercedes,German,#00A19B,backend/fotos_constructors/mercedes.jpg
+2023,red_bull,Red Bull Racing,Austrian,#223971,backend/fotos_constructors/red_bull.jpg
+2023,williams,Williams,British,#00A0DE,backend/fotos_constructors/williams.jpg
+2024,alpine,Alpine,French,#2173B8,backend/fotos_constructors/alpine.jpg
+2024,aston_martin,Aston Martin,British,#037A68,backend/fotos_constructors/aston_martin.jpg
+2024,ferrari,Ferrari,Italian,#EF1A2D,backend/fotos_constructors/ferrari.jpg
+2024,haas,Haas F1 Team,American,#9B9B9B,backend/fotos_constructors/haas.jpg
+2024,mclaren,McLaren,British,#FF8000,backend/fotos_constructors/mclaren.jpg
+2024,mercedes,Mercedes,German,#00A19B,backend/fotos_constructors/mercedes.jpg
+2024,rb,RB,Italian,#0402C4,backend/fotos_constructors/rb_f1_team.jpg
+2024,red_bull,Red Bull Racing,Austrian,#223971,backend/fotos_constructors/red_bull.jpg
+2024,sauber,Kick Sauber,Swiss,#00FF00,backend/fotos_constructors/kick_sauber.png
+2024,williams,Williams,British,#00A0DE,backend/fotos_constructors/williams.jpg
