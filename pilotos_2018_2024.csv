@@ -132,9 +132,11 @@ year,piloto_id,nombre,abreviacion,pais,url_foto
 2024,bearman,Oliver Bearman,BEA,British,backend/fotos_pilotos/oliver_bearman_2024.jpg
 2024,bottas,Valtteri Bottas,BOT,Finnish,backend/fotos_pilotos/valtteri_bottas_2024.jpg
 2024,colapinto,Franco Colapinto,COL,Argentinian,backend/fotos_pilotos/franco_colapinto_2024.jpg
+2024,doohan,Jack Doohan,DOO,Australian,backend/fotos_pilotos/jack_dohaan_2024.png
 2024,gasly,Pierre Gasly,GAS,French,backend/fotos_pilotos/pierre_gasly_2024.jpg
 2024,hamilton,Lewis Hamilton,HAM,British,backend/fotos_pilotos/lewis_hamilton_2024.jpg
 2024,hulkenberg,Nico Hülkenberg,HUL,German,backend/fotos_pilotos/nico_hulkenberg_2024.jpg
+2023,lawson,Liam Lawson,LAW,New Zealander,backend/fotos_pilotos/liam_lawson_2023.jpg
 2024,leclerc,Charles Leclerc,LEC,Monegasque,backend/fotos_pilotos/charles_leclerc_2024.jpg
 2024,kevin_magnussen,Kevin Magnussen,MAG,Danish,backend/fotos_pilotos/kevin_magnussen_2024.jpg
 2024,norris,Lando Norris,NOR,British,backend/fotos_pilotos/lando_norris_2024.jpg

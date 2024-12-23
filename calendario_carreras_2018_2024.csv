@@ -1,150 +1,150 @@
 year,ronda,nombre_carrera,nombre_circuito,fecha_carrera,hora_carrera,fecha_carrera_sprint,url_foto
-2018,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2018-03-25,05:10:00Z,NA,backend/fotos_circuitos/australian_2018.jpg
-2018,2,Bahrain Grand Prix,Bahrain International Circuit,2018-04-08,15:10:00Z,NA,backend/fotos_circuitos/bahrain_2018.jpg
-2018,3,Chinese Grand Prix,Shanghai International Circuit,2018-04-15,06:10:00Z,NA,backend/fotos_circuitos/chinese_2018.jpg
-2018,4,Azerbaijan Grand Prix,Baku City Circuit,2018-04-29,12:10:00Z,NA,backend/fotos_circuitos/azerbaijan_2018.jpg
-2018,5,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2018-05-13,13:10:00Z,NA,backend/fotos_circuitos/spanish_2018.jpg
-2018,6,Monaco Grand Prix,Circuit de Monaco,2018-05-27,13:10:00Z,NA,backend/fotos_circuitos/monaco_2018.jpg
-2018,7,Canadian Grand Prix,Circuit Gilles Villeneuve,2018-06-10,18:10:00Z,NA,backend/fotos_circuitos/canadian_2018.jpg
-2018,8,French Grand Prix,Circuit Paul Ricard,2018-06-24,14:10:00Z,NA,backend/fotos_circuitos/french_2018.jpg
-2018,9,Austrian Grand Prix,Red Bull Ring,2018-07-01,13:10:00Z,NA,backend/fotos_circuitos/austrian_2018.jpg
-2018,10,British Grand Prix,Silverstone Circuit,2018-07-08,13:10:00Z,NA,backend/fotos_circuitos/british_2018.jpg
-2018,11,German Grand Prix,Hockenheimring,2018-07-22,13:10:00Z,NA,backend/fotos_circuitos/german_2018.jpg
-2018,12,Hungarian Grand Prix,Hungaroring,2018-07-29,13:10:00Z,NA,backend/fotos_circuitos/hungarian_2018.jpg
-2018,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2018-08-26,13:10:00Z,NA,backend/fotos_circuitos/belgian_2018.jpg
-2018,14,Italian Grand Prix,Autodromo Nazionale di Monza,2018-09-02,13:10:00Z,NA,backend/fotos_circuitos/italian_2018.jpg
-2018,15,Singapore Grand Prix,Marina Bay Street Circuit,2018-09-16,12:10:00Z,NA,backend/fotos_circuitos/singapore_2018.jpg
-2018,16,Russian Grand Prix,Sochi Autodrom,2018-09-30,11:10:00Z,NA,backend/fotos_circuitos/russian_2018.jpg
-2018,17,Japanese Grand Prix,Suzuka Circuit,2018-10-07,05:10:00Z,NA,backend/fotos_circuitos/japanese_2018.jpg
-2018,18,United States Grand Prix,Circuit of the Americas,2018-10-21,18:10:00Z,NA,backend/fotos_circuitos/united_states_2018.jpg
-2018,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,2018-10-28,19:10:00Z,NA,backend/fotos_circuitos/mexican_2018.jpg
-2018,20,Brazilian Grand Prix,Autódromo José Carlos Pace,2018-11-11,17:10:00Z,NA,backend/fotos_circuitos/brazilian_2018.jpg
-2018,21,Abu Dhabi Grand Prix,Yas Marina Circuit,2018-11-25,13:10:00Z,NA,backend/fotos_circuitos/abu_dhabi_2018.jpg
-2019,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2019-03-17,05:10:00Z,NA,backend/fotos_circuitos/australian_2019.jpg
-2019,2,Bahrain Grand Prix,Bahrain International Circuit,2019-03-31,15:10:00Z,NA,backend/fotos_circuitos/bahrain_2019.jpg
-2019,3,Chinese Grand Prix,Shanghai International Circuit,2019-04-14,06:10:00Z,NA,backend/fotos_circuitos/chinese_2019.jpg
-2019,4,Azerbaijan Grand Prix,Baku City Circuit,2019-04-28,12:10:00Z,NA,backend/fotos_circuitos/azerbaijan_2019.jpg
-2019,5,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2019-05-12,13:10:00Z,NA,backend/fotos_circuitos/spanish_2019.jpg
-2019,6,Monaco Grand Prix,Circuit de Monaco,2019-05-26,13:10:00Z,NA,backend/fotos_circuitos/monaco_2019.jpg
-2019,7,Canadian Grand Prix,Circuit Gilles Villeneuve,2019-06-09,18:10:00Z,NA,backend/fotos_circuitos/canadian_2019.jpg
-2019,8,French Grand Prix,Circuit Paul Ricard,2019-06-23,13:10:00Z,NA,backend/fotos_circuitos/french_2019.jpg
-2019,9,Austrian Grand Prix,Red Bull Ring,2019-06-30,13:10:00Z,NA,backend/fotos_circuitos/austrian_2019.jpg
-2019,10,British Grand Prix,Silverstone Circuit,2019-07-14,13:10:00Z,NA,backend/fotos_circuitos/british_2019.jpg
-2019,11,German Grand Prix,Hockenheimring,2019-07-28,13:10:00Z,NA,backend/fotos_circuitos/german_2019.jpg
-2019,12,Hungarian Grand Prix,Hungaroring,2019-08-04,13:10:00Z,NA,backend/fotos_circuitos/hungarian_2019.jpg
-2019,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2019-09-01,13:10:00Z,NA,backend/fotos_circuitos/belgian_2019.jpg
-2019,14,Italian Grand Prix,Autodromo Nazionale di Monza,2019-09-08,13:10:00Z,NA,backend/fotos_circuitos/italian_2019.jpg
-2019,15,Singapore Grand Prix,Marina Bay Street Circuit,2019-09-22,12:10:00Z,NA,backend/fotos_circuitos/singapore_2019.jpg
-2019,16,Russian Grand Prix,Sochi Autodrom,2019-09-29,11:10:00Z,NA,backend/fotos_circuitos/russian_2019.jpg
-2019,17,Japanese Grand Prix,Suzuka Circuit,2019-10-13,05:10:00Z,NA,backend/fotos_circuitos/japanese_2019.jpg
-2019,18,Mexican Grand Prix,Autódromo Hermanos Rodríguez,2019-10-27,19:10:00Z,NA,backend/fotos_circuitos/mexican_2019.jpg
-2019,19,United States Grand Prix,Circuit of the Americas,2019-11-03,19:10:00Z,NA,backend/fotos_circuitos/united_states_2019.jpg
-2019,20,Brazilian Grand Prix,Autódromo José Carlos Pace,2019-11-17,17:10:00Z,NA,backend/fotos_circuitos/brazilian_2019.jpg
-2019,21,Abu Dhabi Grand Prix,Yas Marina Circuit,2019-12-01,13:10:00Z,NA,backend/fotos_circuitos/abu_dhabi_2019.jpg
-2020,1,Austrian Grand Prix,Red Bull Ring,2020-07-05,13:10:00Z,NA,backend/fotos_circuitos/austrian_2020.jpg
-2020,2,Styrian Grand Prix,Red Bull Ring,2020-07-12,13:10:00Z,NA,backend/fotos_circuitos/styrian_2020.jpg
-2020,3,Hungarian Grand Prix,Hungaroring,2020-07-19,13:10:00Z,NA,backend/fotos_circuitos/hungarian_2020.jpg
-2020,4,British Grand Prix,Silverstone Circuit,2020-08-02,13:10:00Z,NA,backend/fotos_circuitos/british_2020.jpg
-2020,5,70th Anniversary Grand Prix,Silverstone Circuit,2020-08-09,13:10:00Z,NA,backend/fotos_circuitos/70_anniversary_2020.jpg
-2020,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020-08-16,13:10:00Z,NA,backend/fotos_circuitos/spanish_2020.jpg
-2020,7,Belgian Grand Prix,Circuit de Spa-Francorchamps,2020-08-30,13:10:00Z,NA,backend/fotos_circuitos/belgian_2020.jpg
-2020,8,Italian Grand Prix,Autodromo Nazionale di Monza,2020-09-06,13:10:00Z,NA,backend/fotos_circuitos/italian_2020.jpg
-2020,9,Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020-09-13,13:10:00Z,NA,backend/fotos_circuitos/tuscan_2020.jpg
-2020,10,Russian Grand Prix,Sochi Autodrom,2020-09-27,11:10:00Z,NA,backend/fotos_circuitos/russian_2020.jpg
-2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,13:10:00Z,NA,backend/fotos_circuitos/eifel_2020.jpg
-2020,12,Portuguese Grand Prix,Autódromo Internacional do Algarve,2020-10-25,12:10:00Z,NA,backend/fotos_circuitos/portuguese_2020.jpg
-2020,13,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020-11-01,12:10:00Z,NA,backend/fotos_circuitos/emilia_2020.jpg
-2020,14,Turkish Grand Prix,Istanbul Park,2020-11-15,10:10:00Z,NA,backend/fotos_circuitos/turkish_2020.jpg
-2020,15,Bahrain Grand Prix,Bahrain International Circuit,2020-11-29,14:10:00Z,NA,backend/fotos_circuitos/bahrain_2020.jpg
-2020,16,Sakhir Grand Prix,Bahrain International Circuit,2020-12-06,17:10:00Z,NA,backend/fotos_circuitos/sakhir_2020.jpg
-2020,17,Abu Dhabi Grand Prix,Yas Marina Circuit,2020-12-13,13:10:00Z,NA,backend/fotos_circuitos/abu_dhabi_2020.jpg
-2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,15:00:00Z,NA,backend/fotos_circuitos/bahrain_2021.jpg
-2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,13:00:00Z,NA,backend/fotos_circuitos/emilia_2021.jpg
-2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,14:00:00Z,NA,backend/fotos_circuitos/portuguese_2021.jpg
-2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,13:00:00Z,NA,backend/fotos_circuitos/spanish_2021.jpg
-2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,13:00:00Z,NA,backend/fotos_circuitos/monaco_2021.jpg
-2021,6,Azerbaijan Grand Prix,Baku City Circuit,2021-06-06,12:00:00Z,NA,backend/fotos_circuitos/azerbaijan_2021.jpg
-2021,7,French Grand Prix,Circuit Paul Ricard,2021-06-20,13:00:00Z,NA,backend/fotos_circuitos/french_2021.jpg
-2021,8,Styrian Grand Prix,Red Bull Ring,2021-06-27,13:00:00Z,NA,backend/fotos_circuitos/styrian_2021.jpg
-2021,9,Austrian Grand Prix,Red Bull Ring,2021-07-04,13:00:00Z,NA,backend/fotos_circuitos/austrian_2021.jpg
-2021,10,British Grand Prix,Silverstone Circuit,2021-07-18,14:00:00Z,2021-07-17,backend/fotos_circuitos/british_2021.jpg
-2021,11,Hungarian Grand Prix,Hungaroring,2021-08-01,13:00:00Z,NA,backend/fotos_circuitos/hungarian_2021.jpg
-2021,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2021-08-29,13:00:00Z,NA,backend/fotos_circuitos/belgian_2021.jpg
-2021,13,Dutch Grand Prix,Circuit Park Zandvoort,2021-09-05,13:00:00Z,NA,backend/fotos_circuitos/dutch_2021.jpg
-2021,14,Italian Grand Prix,Autodromo Nazionale di Monza,2021-09-12,13:00:00Z,2021-09-11,backend/fotos_circuitos/italian_2021.jpg
-2021,15,Russian Grand Prix,Sochi Autodrom,2021-09-26,12:00:00Z,NA,backend/fotos_circuitos/russian_2021.jpg
-2021,16,Turkish Grand Prix,Istanbul Park,2021-10-10,12:00:00Z,NA,backend/fotos_circuitos/turkish_2021.jpg
-2021,17,United States Grand Prix,Circuit of the Americas,2021-10-24,19:00:00Z,NA,backend/fotos_circuitos/united_states_2021.jpg
-2021,18,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2021-11-07,19:00:00Z,NA,backend/fotos_circuitos/mexican_2021.jpg
-2021,19,São Paulo Grand Prix,Autódromo José Carlos Pace,2021-11-14,17:00:00Z,2021-11-13,backend/fotos_circuitos/sao_paulo_2021.jpg
-2021,20,Qatar Grand Prix,Losail International Circuit,2021-11-21,14:00:00Z,NA,backend/fotos_circuitos/qatar_2021.jpg
-2021,21,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2021-12-05,17:30:00Z,NA,backend/fotos_circuitos/saudi_2021.jpg
-2021,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2021-12-12,13:00:00Z,NA,backend/fotos_circuitos/abu_dhabi_2021.jpg
-2022,1,Bahrain Grand Prix,Bahrain International Circuit,2022-03-20,15:00:00Z,NA,backend/fotos_circuitos/bahrain_2022.jpg
-2022,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2022-03-27,17:00:00Z,NA,backend/fotos_circuitos/saudi_2022.jpg
-2022,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2022-04-10,05:00:00Z,NA,backend/fotos_circuitos/australian_2022.jpg
-2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,13:00:00Z,2022-04-23,backend/fotos_circuitos/emilia_2022.jpg
-2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,19:30:00Z,NA,backend/fotos_circuitos/miami_2022.jpg
-2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,13:00:00Z,NA,backend/fotos_circuitos/spanish_2022.jpg
-2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,13:00:00Z,NA,backend/fotos_circuitos/monaco_2022.jpg
-2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,11:00:00Z,NA,backend/fotos_circuitos/azerbaijan_2022.jpg
-2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,18:00:00Z,NA,backend/fotos_circuitos/canadian_2022.jpg
-2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,14:00:00Z,NA,backend/fotos_circuitos/british_2022.jpg
-2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,13:00:00Z,2022-07-09,backend/fotos_circuitos/austrian_2022.jpg
-2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,13:00:00Z,NA,backend/fotos_circuitos/french_2022.jpg
-2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,13:00:00Z,NA,backend/fotos_circuitos/hungarian_2022.jpg
-2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,13:00:00Z,NA,backend/fotos_circuitos/belgian_2022.jpg
-2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,13:00:00Z,NA,backend/fotos_circuitos/dutch_2022.jpg
-2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,13:00:00Z,NA,backend/fotos_circuitos/italian_2022.jpg
-2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,12:00:00Z,NA,backend/fotos_circuitos/singapore_2022.jpg
-2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,05:00:00Z,NA,backend/fotos_circuitos/japanese_2022.jpg
-2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,19:00:00Z,NA,backend/fotos_circuitos/united_states_2022.jpg
-2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,20:00:00Z,NA,backend/fotos_circuitos/mexican_2022.jpg
-2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,18:00:00Z,2022-11-12,backend/fotos_circuitos/sao_paulo_2022.jpg
-2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,13:00:00Z,NA,backend/fotos_circuitos/abu_dhabi_2022.jpg
-2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,15:00:00Z,NA,backend/fotos_circuitos/bahrain_2023.jpg
-2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,17:00:00Z,NA,backend/fotos_circuitos/saudi_2023.jpg
-2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,05:00:00Z,NA,backend/fotos_circuitos/australian_2023.jpg
-2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,11:00:00Z,2023-04-29,backend/fotos_circuitos/azerbaijan_2023.jpg
-2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,19:30:00Z,NA,backend/fotos_circuitos/miami_2023.jpg
-2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,13:00:00Z,NA,backend/fotos_circuitos/monaco_2023.jpg
-2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,13:00:00Z,NA,backend/fotos_circuitos/spanish_2023.jpg
-2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,18:00:00Z,NA,backend/fotos_circuitos/canadian_2023.jpg
-2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,13:00:00Z,2023-07-01,backend/fotos_circuitos/austrian_2023.jpg
-2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,14:00:00Z,NA,backend/fotos_circuitos/british_2023.jpg
-2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,13:00:00Z,NA,backend/fotos_circuitos/hungarian_2023.jpg
-2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,13:00:00Z,2023-07-29,backend/fotos_circuitos/belgian_2023.jpg
-2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,13:00:00Z,NA,backend/fotos_circuitos/dutch_2023.jpg
-2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,13:00:00Z,NA,backend/fotos_circuitos/italian_2023.jpg
-2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,12:00:00Z,NA,backend/fotos_circuitos/singapore_2023.jpg
-2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,05:00:00Z,NA,backend/fotos_circuitos/japanese_2023.jpg
-2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,17:00:00Z,2023-10-07,backend/fotos_circuitos/qatar_2023.jpg
-2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,19:00:00Z,2023-10-21,backend/fotos_circuitos/united_states_2023.jpg
-2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,20:00:00Z,NA,backend/fotos_circuitos/mexican_2023.jpg
-2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,17:00:00Z,2023-11-04,backend/fotos_circuitos/sao_paulo_2023.jpg
-2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,06:00:00Z,NA,backend/fotos_circuitos/las_vegas_2023.jpg
-2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,13:00:00Z,NA,backend/fotos_circuitos/abu_dhabi_2023.jpg
-2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,15:00:00Z,NA,backend/fotos_circuitos/bahrain_2024.jpg
-2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,17:00:00Z,NA,backend/fotos_circuitos/saudi_2024.jpg
-2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,04:00:00Z,NA,backend/fotos_circuitos/australian_2024.jpg
-2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,05:00:00Z,NA,backend/fotos_circuitos/japanese_2024.jpg
-2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,07:00:00Z,2024-04-20,backend/fotos_circuitos/chinese_2024.jpg
-2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,20:00:00Z,2024-05-04,backend/fotos_circuitos/miami_2024.jpg
-2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,13:00:00Z,NA,backend/fotos_circuitos/emilia_2024.jpg
-2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,13:00:00Z,NA,backend/fotos_circuitos/monaco_2024.jpg
-2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,18:00:00Z,NA,backend/fotos_circuitos/canadian_2024.jpg
-2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,13:00:00Z,NA,backend/fotos_circuitos/spanish_2024.jpg
-2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,13:00:00Z,2024-06-29,backend/fotos_circuitos/austrian_2024.jpg
-2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,14:00:00Z,NA,backend/fotos_circuitos/british_2024.jpg
-2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,13:00:00Z,NA,backend/fotos_circuitos/hungarian_2024.jpg
-2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,13:00:00Z,NA,backend/fotos_circuitos/belgian_2024.jpg
-2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,13:00:00Z,NA,backend/fotos_circuitos/dutch_2024.jpg
-2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,13:00:00Z,NA,backend/fotos_circuitos/italian_2024.jpg
-2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,11:00:00Z,NA,backend/fotos_circuitos/azerbaijan_2024.jpg
-2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,12:00:00Z,NA,backend/fotos_circuitos/singapore_2024.jpg
-2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,19:00:00Z,2024-10-19,backend/fotos_circuitos/united_states_2024.jpg
-2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,20:00:00Z,NA,backend/fotos_circuitos/mexican_2024.jpg
-2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,17:00:00Z,2024-11-02,backend/fotos_circuitos/sao_paulo_2024.jpg
-2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,06:00:00Z,NA,backend/fotos_circuitos/las_vegas_2024.jpg
-2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,17:00:00Z,2024-11-30,backend/fotos_circuitos/qatar_2024.jpg
-2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,13:00:00Z,NA,backend/fotos_circuitos/abu_dhabi_2024.jpg
+2018,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2018-03-25,05:10:00,NA,backend/fotos_circuitos/australian_2018.jpg
+2018,2,Bahrain Grand Prix,Bahrain International Circuit,2018-04-08,15:10:00,NA,backend/fotos_circuitos/bahrain_2018.jpg
+2018,3,Chinese Grand Prix,Shanghai International Circuit,2018-04-15,06:10:00,NA,backend/fotos_circuitos/chinese_2018.jpg
+2018,4,Azerbaijan Grand Prix,Baku City Circuit,2018-04-29,12:10:00,NA,backend/fotos_circuitos/azerbaijan_2018.jpg
+2018,5,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2018-05-13,13:10:00,NA,backend/fotos_circuitos/spanish_2018.jpg
+2018,6,Monaco Grand Prix,Circuit de Monaco,2018-05-27,13:10:00,NA,backend/fotos_circuitos/monaco_2018.jpg
+2018,7,Canadian Grand Prix,Circuit Gilles Villeneuve,2018-06-10,18:10:00,NA,backend/fotos_circuitos/canadian_2018.jpg
+2018,8,French Grand Prix,Circuit Paul Ricard,2018-06-24,14:10:00,NA,backend/fotos_circuitos/french_2018.jpg
+2018,9,Austrian Grand Prix,Red Bull Ring,2018-07-01,13:10:00,NA,backend/fotos_circuitos/austrian_2018.jpg
+2018,10,British Grand Prix,Silverstone Circuit,2018-07-08,13:10:00,NA,backend/fotos_circuitos/british_2018.jpg
+2018,11,German Grand Prix,Hockenheimring,2018-07-22,13:10:00,NA,backend/fotos_circuitos/german_2018.jpg
+2018,12,Hungarian Grand Prix,Hungaroring,2018-07-29,13:10:00,NA,backend/fotos_circuitos/hungarian_2018.jpg
+2018,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2018-08-26,13:10:00,NA,backend/fotos_circuitos/belgian_2018.jpg
+2018,14,Italian Grand Prix,Autodromo Nazionale di Monza,2018-09-02,13:10:00,NA,backend/fotos_circuitos/italian_2018.jpg
+2018,15,Singapore Grand Prix,Marina Bay Street Circuit,2018-09-16,12:10:00,NA,backend/fotos_circuitos/singapore_2018.jpg
+2018,16,Russian Grand Prix,Sochi Autodrom,2018-09-30,11:10:00,NA,backend/fotos_circuitos/russian_2018.jpg
+2018,17,Japanese Grand Prix,Suzuka Circuit,2018-10-07,05:10:00,NA,backend/fotos_circuitos/japanese_2018.jpg
+2018,18,United States Grand Prix,Circuit of the Americas,2018-10-21,18:10:00,NA,backend/fotos_circuitos/united_states_2018.jpg
+2018,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,2018-10-28,19:10:00,NA,backend/fotos_circuitos/mexican_2018.jpg
+2018,20,Brazilian Grand Prix,Autódromo José Carlos Pace,2018-11-11,17:10:00,NA,backend/fotos_circuitos/brazilian_2018.jpg
+2018,21,Abu Dhabi Grand Prix,Yas Marina Circuit,2018-11-25,13:10:00,NA,backend/fotos_circuitos/abu_dhabi_2018.jpg
+2019,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2019-03-17,05:10:00,NA,backend/fotos_circuitos/australian_2019.jpg
+2019,2,Bahrain Grand Prix,Bahrain International Circuit,2019-03-31,15:10:00,NA,backend/fotos_circuitos/bahrain_2019.jpg
+2019,3,Chinese Grand Prix,Shanghai International Circuit,2019-04-14,06:10:00,NA,backend/fotos_circuitos/chinese_2019.jpg
+2019,4,Azerbaijan Grand Prix,Baku City Circuit,2019-04-28,12:10:00,NA,backend/fotos_circuitos/azerbaijan_2019.jpg
+2019,5,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2019-05-12,13:10:00,NA,backend/fotos_circuitos/spanish_2019.jpg
+2019,6,Monaco Grand Prix,Circuit de Monaco,2019-05-26,13:10:00,NA,backend/fotos_circuitos/monaco_2019.jpg
+2019,7,Canadian Grand Prix,Circuit Gilles Villeneuve,2019-06-09,18:10:00,NA,backend/fotos_circuitos/canadian_2019.jpg
+2019,8,French Grand Prix,Circuit Paul Ricard,2019-06-23,13:10:00,NA,backend/fotos_circuitos/french_2019.jpg
+2019,9,Austrian Grand Prix,Red Bull Ring,2019-06-30,13:10:00,NA,backend/fotos_circuitos/austrian_2019.jpg
+2019,10,British Grand Prix,Silverstone Circuit,2019-07-14,13:10:00,NA,backend/fotos_circuitos/british_2019.jpg
+2019,11,German Grand Prix,Hockenheimring,2019-07-28,13:10:00,NA,backend/fotos_circuitos/german_2019.jpg
+2019,12,Hungarian Grand Prix,Hungaroring,2019-08-04,13:10:00,NA,backend/fotos_circuitos/hungarian_2019.jpg
+2019,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2019-09-01,13:10:00,NA,backend/fotos_circuitos/belgian_2019.jpg
+2019,14,Italian Grand Prix,Autodromo Nazionale di Monza,2019-09-08,13:10:00,NA,backend/fotos_circuitos/italian_2019.jpg
+2019,15,Singapore Grand Prix,Marina Bay Street Circuit,2019-09-22,12:10:00,NA,backend/fotos_circuitos/singapore_2019.jpg
+2019,16,Russian Grand Prix,Sochi Autodrom,2019-09-29,11:10:00,NA,backend/fotos_circuitos/russian_2019.jpg
+2019,17,Japanese Grand Prix,Suzuka Circuit,2019-10-13,05:10:00,NA,backend/fotos_circuitos/japanese_2019.jpg
+2019,18,Mexican Grand Prix,Autódromo Hermanos Rodríguez,2019-10-27,19:10:00,NA,backend/fotos_circuitos/mexican_2019.jpg
+2019,19,United States Grand Prix,Circuit of the Americas,2019-11-03,19:10:00,NA,backend/fotos_circuitos/united_states_2019.jpg
+2019,20,Brazilian Grand Prix,Autódromo José Carlos Pace,2019-11-17,17:10:00,NA,backend/fotos_circuitos/brazilian_2019.jpg
+2019,21,Abu Dhabi Grand Prix,Yas Marina Circuit,2019-12-01,13:10:00,NA,backend/fotos_circuitos/abu_dhabi_2019.jpg
+2020,1,Austrian Grand Prix,Red Bull Ring,2020-07-05,13:10:00,NA,backend/fotos_circuitos/austrian_2020.jpg
+2020,2,Styrian Grand Prix,Red Bull Ring,2020-07-12,13:10:00,NA,backend/fotos_circuitos/styrian_2020.jpg
+2020,3,Hungarian Grand Prix,Hungaroring,2020-07-19,13:10:00,NA,backend/fotos_circuitos/hungarian_2020.jpg
+2020,4,British Grand Prix,Silverstone Circuit,2020-08-02,13:10:00,NA,backend/fotos_circuitos/british_2020.jpg
+2020,5,70th Anniversary Grand Prix,Silverstone Circuit,2020-08-09,13:10:00,NA,backend/fotos_circuitos/70_anniversary_2020.jpg
+2020,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2020-08-16,13:10:00,NA,backend/fotos_circuitos/spanish_2020.jpg
+2020,7,Belgian Grand Prix,Circuit de Spa-Francorchamps,2020-08-30,13:10:00,NA,backend/fotos_circuitos/belgian_2020.jpg
+2020,8,Italian Grand Prix,Autodromo Nazionale di Monza,2020-09-06,13:10:00,NA,backend/fotos_circuitos/italian_2020.jpg
+2020,9,Tuscan Grand Prix,Autodromo Internazionale del Mugello,2020-09-13,13:10:00,NA,backend/fotos_circuitos/tuscan_2020.jpg
+2020,10,Russian Grand Prix,Sochi Autodrom,2020-09-27,11:10:00,NA,backend/fotos_circuitos/russian_2020.jpg
+2020,11,Eifel Grand Prix,Nürburgring,2020-10-11,13:10:00,NA,backend/fotos_circuitos/eifel_2020.jpg
+2020,12,Portuguese Grand Prix,Autódromo Internacional do Algarve,2020-10-25,12:10:00,NA,backend/fotos_circuitos/portuguese_2020.jpg
+2020,13,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2020-11-01,12:10:00,NA,backend/fotos_circuitos/emilia_2020.jpg
+2020,14,Turkish Grand Prix,Istanbul Park,2020-11-15,10:10:00,NA,backend/fotos_circuitos/turkish_2020.jpg
+2020,15,Bahrain Grand Prix,Bahrain International Circuit,2020-11-29,14:10:00,NA,backend/fotos_circuitos/bahrain_2020.jpg
+2020,16,Sakhir Grand Prix,Bahrain International Circuit,2020-12-06,17:10:00,NA,backend/fotos_circuitos/sakhir_2020.jpg
+2020,17,Abu Dhabi Grand Prix,Yas Marina Circuit,2020-12-13,13:10:00,NA,backend/fotos_circuitos/abu_dhabi_2020.jpg
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,15:00:00,NA,backend/fotos_circuitos/bahrain_2021.jpg
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,13:00:00,NA,backend/fotos_circuitos/emilia_2021.jpg
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,14:00:00,NA,backend/fotos_circuitos/portuguese_2021.jpg
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,13:00:00,NA,backend/fotos_circuitos/spanish_2021.jpg
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,13:00:00,NA,backend/fotos_circuitos/monaco_2021.jpg
+2021,6,Azerbaijan Grand Prix,Baku City Circuit,2021-06-06,12:00:00,NA,backend/fotos_circuitos/azerbaijan_2021.jpg
+2021,7,French Grand Prix,Circuit Paul Ricard,2021-06-20,13:00:00,NA,backend/fotos_circuitos/french_2021.jpg
+2021,8,Styrian Grand Prix,Red Bull Ring,2021-06-27,13:00:00,NA,backend/fotos_circuitos/styrian_2021.jpg
+2021,9,Austrian Grand Prix,Red Bull Ring,2021-07-04,13:00:00,NA,backend/fotos_circuitos/austrian_2021.jpg
+2021,10,British Grand Prix,Silverstone Circuit,2021-07-18,14:00:00,2021-07-17,backend/fotos_circuitos/british_2021.jpg
+2021,11,Hungarian Grand Prix,Hungaroring,2021-08-01,13:00:00,NA,backend/fotos_circuitos/hungarian_2021.jpg
+2021,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2021-08-29,13:00:00,NA,backend/fotos_circuitos/belgian_2021.jpg
+2021,13,Dutch Grand Prix,Circuit Park andvoort,2021-09-05,13:00:00,NA,backend/fotos_circuitos/dutch_2021.jpg
+2021,14,Italian Grand Prix,Autodromo Nazionale di Monza,2021-09-12,13:00:00,2021-09-11,backend/fotos_circuitos/italian_2021.jpg
+2021,15,Russian Grand Prix,Sochi Autodrom,2021-09-26,12:00:00,NA,backend/fotos_circuitos/russian_2021.jpg
+2021,16,Turkish Grand Prix,Istanbul Park,2021-10-10,12:00:00,NA,backend/fotos_circuitos/turkish_2021.jpg
+2021,17,United States Grand Prix,Circuit of the Americas,2021-10-24,19:00:00,NA,backend/fotos_circuitos/united_states_2021.jpg
+2021,18,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2021-11-07,19:00:00,NA,backend/fotos_circuitos/mexican_2021.jpg
+2021,19,São Paulo Grand Prix,Autódromo José Carlos Pace,2021-11-14,17:00:00,2021-11-13,backend/fotos_circuitos/sao_paulo_2021.jpg
+2021,20,Qatar Grand Prix,Losail International Circuit,2021-11-21,14:00:00,NA,backend/fotos_circuitos/qatar_2021.jpg
+2021,21,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2021-12-05,17:30:00,NA,backend/fotos_circuitos/saudi_2021.jpg
+2021,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2021-12-12,13:00:00,NA,backend/fotos_circuitos/abu_dhabi_2021.jpg
+2022,1,Bahrain Grand Prix,Bahrain International Circuit,2022-03-20,15:00:00,NA,backend/fotos_circuitos/bahrain_2022.jpg
+2022,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2022-03-27,17:00:00,NA,backend/fotos_circuitos/saudi_2022.jpg
+2022,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2022-04-10,05:00:00,NA,backend/fotos_circuitos/australian_2022.jpg
+2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,13:00:00,2022-04-23,backend/fotos_circuitos/emilia_2022.jpg
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,19:30:00,NA,backend/fotos_circuitos/miami_2022.jpg
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,13:00:00,NA,backend/fotos_circuitos/spanish_2022.jpg
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,13:00:00,NA,backend/fotos_circuitos/monaco_2022.jpg
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,11:00:00,NA,backend/fotos_circuitos/azerbaijan_2022.jpg
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,18:00:00,NA,backend/fotos_circuitos/canadian_2022.jpg
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,14:00:00,NA,backend/fotos_circuitos/british_2022.jpg
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,13:00:00,2022-07-09,backend/fotos_circuitos/austrian_2022.jpg
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,13:00:00,NA,backend/fotos_circuitos/french_2022.jpg
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,13:00:00,NA,backend/fotos_circuitos/hungarian_2022.jpg
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,13:00:00,NA,backend/fotos_circuitos/belgian_2022.jpg
+2022,15,Dutch Grand Prix,Circuit Park andvoort,2022-09-04,13:00:00,NA,backend/fotos_circuitos/dutch_2022.jpg
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,13:00:00,NA,backend/fotos_circuitos/italian_2022.jpg
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,12:00:00,NA,backend/fotos_circuitos/singapore_2022.jpg
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,05:00:00,NA,backend/fotos_circuitos/japanese_2022.jpg
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,19:00:00,NA,backend/fotos_circuitos/united_states_2022.jpg
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,20:00:00,NA,backend/fotos_circuitos/mexican_2022.jpg
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,18:00:00,2022-11-12,backend/fotos_circuitos/sao_paulo_2022.jpg
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,13:00:00,NA,backend/fotos_circuitos/abu_dhabi_2022.jpg
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,15:00:00,NA,backend/fotos_circuitos/bahrain_2023.jpg
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,17:00:00,NA,backend/fotos_circuitos/saudi_2023.jpg
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,05:00:00,NA,backend/fotos_circuitos/australian_2023.jpg
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,11:00:00,2023-04-29,backend/fotos_circuitos/azerbaijan_2023.jpg
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,19:30:00,NA,backend/fotos_circuitos/miami_2023.jpg
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,13:00:00,NA,backend/fotos_circuitos/monaco_2023.jpg
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,13:00:00,NA,backend/fotos_circuitos/spanish_2023.jpg
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,18:00:00,NA,backend/fotos_circuitos/canadian_2023.jpg
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,13:00:00,2023-07-01,backend/fotos_circuitos/austrian_2023.jpg
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,14:00:00,NA,backend/fotos_circuitos/british_2023.jpg
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,13:00:00,NA,backend/fotos_circuitos/hungarian_2023.jpg
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,13:00:00,2023-07-29,backend/fotos_circuitos/belgian_2023.jpg
+2023,13,Dutch Grand Prix,Circuit Park andvoort,2023-08-27,13:00:00,NA,backend/fotos_circuitos/dutch_2023.jpg
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,13:00:00,NA,backend/fotos_circuitos/italian_2023.jpg
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,12:00:00,NA,backend/fotos_circuitos/singapore_2023.jpg
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,05:00:00,NA,backend/fotos_circuitos/japanese_2023.jpg
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,17:00:00,2023-10-07,backend/fotos_circuitos/qatar_2023.jpg
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,19:00:00,2023-10-21,backend/fotos_circuitos/united_states_2023.jpg
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,20:00:00,NA,backend/fotos_circuitos/mexican_2023.jpg
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,17:00:00,2023-11-04,backend/fotos_circuitos/sao_paulo_2023.jpg
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,06:00:00,NA,backend/fotos_circuitos/las_vegas_2023.jpg
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,13:00:00,NA,backend/fotos_circuitos/abu_dhabi_2023.jpg
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,15:00:00,NA,backend/fotos_circuitos/bahrain_2024.jpg
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,17:00:00,NA,backend/fotos_circuitos/saudi_2024.jpg
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,04:00:00,NA,backend/fotos_circuitos/australian_2024.jpg
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,05:00:00,NA,backend/fotos_circuitos/japanese_2024.jpg
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,07:00:00,2024-04-20,backend/fotos_circuitos/chinese_2024.jpg
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,20:00:00,2024-05-04,backend/fotos_circuitos/miami_2024.jpg
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,13:00:00,NA,backend/fotos_circuitos/emilia_2024.jpg
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,13:00:00,NA,backend/fotos_circuitos/monaco_2024.jpg
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,18:00:00,NA,backend/fotos_circuitos/canadian_2024.jpg
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,13:00:00,NA,backend/fotos_circuitos/spanish_2024.jpg
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,13:00:00,2024-06-29,backend/fotos_circuitos/austrian_2024.jpg
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,14:00:00,NA,backend/fotos_circuitos/british_2024.jpg
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,13:00:00,NA,backend/fotos_circuitos/hungarian_2024.jpg
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,13:00:00,NA,backend/fotos_circuitos/belgian_2024.jpg
+2024,15,Dutch Grand Prix,Circuit Park andvoort,2024-08-25,13:00:00,NA,backend/fotos_circuitos/dutch_2024.jpg
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,13:00:00,NA,backend/fotos_circuitos/italian_2024.jpg
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,11:00:00,NA,backend/fotos_circuitos/azerbaijan_2024.jpg
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,12:00:00,NA,backend/fotos_circuitos/singapore_2024.jpg
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,19:00:00,2024-10-19,backend/fotos_circuitos/united_states_2024.jpg
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,20:00:00,NA,backend/fotos_circuitos/mexican_2024.jpg
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,17:00:00,2024-11-02,backend/fotos_circuitos/sao_paulo_2024.jpg
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,06:00:00,NA,backend/fotos_circuitos/las_vegas_2024.jpg
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,17:00:00,2024-11-30,backend/fotos_circuitos/qatar_2024.jpg
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,13:00:00,NA,backend/fotos_circuitos/abu_dhabi_2024.jpg
